@@ -1,0 +1,11 @@
+Model Information:
+* title:	Banksy Monkey Queen, sculpted in VR
+* source:	https://sketchfab.com/3d-models/banksy-monkey-queen-sculpted-in-vr-90cce13131a04e4a973a69be1be0320d
+* author:	alban (https://sketchfab.com/alban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Banksy Monkey Queen, sculpted in VR" (https://sketchfab.com/3d-models/banksy-monkey-queen-sculpted-in-vr-90cce13131a04e4a973a69be1be0320d) by alban (https://sketchfab.com/alban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
